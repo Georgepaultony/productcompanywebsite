@@ -561,10 +561,6 @@ body {
 }
 ```
 
-## Sample Output:
-
-![output](./images/homepage.jpg)
-
 ## OUTPUT:
 
 ### Home Page:
